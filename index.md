@@ -1,6 +1,6 @@
 ## Research
 
-My research aims to help people create better software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. I'm also currently leading a project to develop new analysis techniques for robotic software developed with the Robot Operating System, to be integrated in [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely on developing the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
+My research aims to help people create better software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with ROS, to be integrated in our [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely on developing the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
 
 ## Affiliation
 
@@ -8,9 +8,9 @@ I'm an Assistant Professor at the [Department of Informatics](http://www.di.umin
 
 ## Teaching
 
-I regularly teach the following courses at University of Minho:
+I regularly teach the following courses at [University of Minho](http://www.uminho.pt):
 
-- Specification and Modelling (MSc Informatics Engineering)
+- [Specification and Modelling](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES/EM) (MSc Informatics Engineering)
 - Computational Logic (BSc Computer Science)
 - Algorithms and Complexity (BSc Informatics Engineering and BSc Computer Science)
 - Algorithmic Problem Solving Lab II (BSc Computer Science)
@@ -37,12 +37,12 @@ Past projects:
 
 Selected publications:
 
-- Nuno Macedo, Jorge Tiago, Alcino Cunha: A Feature-based Classification of Model Repair Approaches. IEEE Transactions on Software Engineering 43(7): 615-640. IEEE, 2017.
-- Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: Lightweight specification and analysis of dynamic systems with rich configurations. In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
-- André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: A Framework for Quality Assessment of ROS Repositories. In proceedings of the 2016 IEEE/RSJ International Confe- rence on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
-- Alcino Cunha, Ana Gabriela Garis, Daniel Riesco: Translating between Alloy specifications and UML class diagrams annotated with OCL. Software and System Modeling 14(1): 5-25. Springer, 2015.
-- Nuno Macedo, Alcino Cunha: Implementing QVT-R Bidirectional Model Transformations Using Alloy. In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013. 
-- Alcino Cunha, José Nuno Oliveira, Joost Visser: Type-safe Two-level Data Transformation. In proceedings of the 14th International Symposium on Formal Methods (FM’06), volume 4085 of LNCS, pages 284-299. Springer, 2006.
+- Nuno Macedo, Jorge Tiago, Alcino Cunha: [A Feature-based Classification of Model Repair Approaches](https://doi.org/10.1109/TSE.2016.2620145). IEEE Transactions on Software Engineering 43(7): 615-640. IEEE, 2017.
+- Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: [Lightweight specification and analysis of dynamic systems with rich configurations](https://doi.org/10.1145/2950290.2950318). In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
+- André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: [A Framework for Quality Assessment of ROS Repositories](https://doi.org/10.1109/IROS.2016.7759661). In proceedings of the 2016 IEEE/RSJ International Confe- rence on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
+- Alcino Cunha, Ana Gabriela Garis, Daniel Riesco: [Translating between Alloy specifications and UML class diagrams annotated with OCL](https://doi.org/10.1007/s10270-013-0353-5). Software and System Modeling 14(1): 5-25. Springer, 2015.
+- Nuno Macedo, Alcino Cunha: [Implementing QVT-R Bidirectional Model Transformations Using Alloy](https://doi.org/10.1007/978-3-642-37057-1_22). In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013. 
+- Alcino Cunha, José Nuno Oliveira, Joost Visser: [Type-safe Two-level Data Transformation](https://doi.org/10.1007/11813040_20). In proceedings of the 14th International Symposium on Formal Methods (FM’06), volume 4085 of LNCS, pages 284-299. Springer, 2006.
 
 My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Cunha:Alcino.html) or [Scholar](https://scholar.google.com/citations?hl=en&user=aT3gF_cAAAAJ).
 
@@ -76,3 +76,12 @@ Past students:
 
 ## Service
 
+- [ERRoSS'20](https://www.erross.org) (PC)
+- [FM'19](http://formalmethods2019.inesctec.pt) (PC)
+- [Bx'18](https://2018.programming-conference.org/track/bx-2018-papers) (PC)
+- [Bx'15](http://bx-community.wikidot.com/bx2015:home) (Co-chair)
+- [HART'13](http://www.imn.htwk-leipzig.de/HART2013/) (PC)
+- [MODELSWARD'13](http://www.modelsward.org/) (PC)
+- [ICMT'12](http://www.model-transformation.org/) (PC)
+- [Bx'12](http://www.program-transformation.org/BX12) (PC)
+- [MSFP'10](http://cs.ioc.ee/msfp/msfp2010/) (PC)
