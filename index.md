@@ -1,10 +1,10 @@
+## About
+
+I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
+
 ## Research
 
 My research aims to help people create better software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with ROS, to be integrated in our [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely on developing the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
-
-## Affiliation
-
-I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
 
 ## Teaching
 
