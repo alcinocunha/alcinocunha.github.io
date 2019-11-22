@@ -1,34 +1,78 @@
-# Alcino Cunha
+## Research
+
+My research aims to help people create better software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. I'm also currently leading a project to develop new analysis techniques for robotic software developed with the Robot Operating System, to be integrated in [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely on developing the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
 
 ## Affiliation
 
+I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-cordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
+
 ## Teaching
 
-- Especificação e Modelação
-- Lógica Computacional
-- Algoritmos e Complexidade
-- Laboratórios de Algoritmia II
-- Programação Funcional
-- Programação Imperativa
+I regularly teach the following courses at University of Minho:
+
+- Specification and Modelling (MSc Informatics Engineering)
+- Computational Logic (BSc Computer Science)
+- Algorithms and Complexity (BSc Informatics Engineering and BSc Computer Science)
+- Algorithmic Problem Solving Lab II (BSc Computer Science)
+- Functional Programming (BSc Informatics Engineering and BSc Computer Science)
+- Imperative Programming (BSc Informatics Engineering and BSC Computer Science)
 
 ## Projects
 
 Current projects:
 
-- TRUST: Trustworthy Software Design with Alloy (principal investigator)
-- SAFER: Safety Verification for Robotic Software (principal investigator)
+- [TRUST](http://haslab.github.io/TRUST/): Trustworthy Software Design with Alloy (principal investigator)
+- [SAFER](http://haslab.github.io/SAFER/): Safety Verification for Robotic Software (principal investigator)
 - LightKone: Lightweight Computations for Networks at the Edge
 - COST IC1405: Reversible computation - extending horizons of computing
 
 Past projects:
 
-- FATBIT: Foundations, Applications and Tools for Bidirectional Transformation (principal investigator)
+- [FATBIT](http://wiki.di.uminho.pt/twiki/bin/view/Research/FATBIT/WebHome): Foundations, Applications and Tools for Bidirectional Transformation (principal investigator)
 - PTCRISync: An ORCID based synchronization framework for the portuguese CRIS ecosystem
 - PURe: Program Understanding and Re-engineering: Calculi and Applications
 - EVOLVE: Evolutionary validation, verification and certification
 
 ## Publications
 
+Selected publications:
+
+- Nuno Macedo, Jorge Tiago, Alcino Cunha: A Feature-based Classification of Model Repair Approaches. IEEE Transactions on Software Engineering 43(7): 615-640. IEEE, 2017.
+- Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: Lightweight specification and analysis of dynamic systems with rich configurations. In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
+- André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: A Framework for Quality Assessment of ROS Repositories. In proceedings of the 2016 IEEE/RSJ International Confe- rence on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
+- Alcino Cunha, Ana Gabriela Garis, Daniel Riesco: Translating between Alloy specifications and UML class diagrams annotated with OCL. Software and System Modeling 14(1): 5-25. Springer, 2015.
+- Nuno Macedo, Alcino Cunha: Implementing QVT-R Bidirectional Model Transformations Using Alloy. In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013. 
+- Alcino Cunha, José Nuno Oliveira, Joost Visser: Type-safe Two-level Data Transformation. In proceedings of the 14th International Symposium on Formal Methods (FM’06), volume 4085 of LNCS, pages 284-299. Springer, 2006.
+
+My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Cunha:Alcino.html) or [Scholar](https://scholar.google.com/citations?hl=en&user=aT3gF_cAAAAJ).
+
 ## Students
 
+Current students:
+
+- André Santos (PhD, advisor, co-advised by Nuno Macedo)
+- Chong Liu (PhD, advisor, co-advised by Nuno Macedo)
+- Bruno Cancelinha (MSc, advisor, co-advised by Paulo Sérgio Almeida)
+- Renato Carvalho (MSc, co-advisor, advised by Nuno Macedo)
+
+Past students:
+
+- José Pereira (MSc, advisor, 2016)
+- Eduardo Pessoa (MSc, co-advisor, 2016)
+- Ana Garis (PhD, advisor, 2015)
+- André Santos (MSc, advisor, 2015)
+- Luís Romano (MSc, advisor, 2015)
+- Miguel Costa (MSc, advisor, 2015)
+- Nuno Macedo (PhD, advisor, 2014)
+- Daniel Murta (MSc, advisor, 2014)
+- Tiago Jorge (MSc, advisor, 2014)
+- Nuno Sousa (MSc, advisor, 2014)
+- Hugo Pacheco (PhD, advisor, 2012)
+- Mário Eiras (MSc, advisor, 2011)
+- Ricardo Romano (MSc, advisor, 2011)
+- Nuno Macedo (MSc, advisor, 2010)
+- João Paz (MSc, advisor, 2010)
+
+
 ## Service
+
