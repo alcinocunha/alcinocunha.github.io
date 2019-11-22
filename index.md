@@ -4,7 +4,7 @@ My research aims to help people create better software. Together with several co
 
 ## Affiliation
 
-I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-cordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
+I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
 
 ## Teaching
 
@@ -29,7 +29,7 @@ Current projects:
 Past projects:
 
 - [FATBIT](http://wiki.di.uminho.pt/twiki/bin/view/Research/FATBIT/WebHome): Foundations, Applications and Tools for Bidirectional Transformation (principal investigator)
-- PTCRISync: An ORCID based synchronization framework for the portuguese CRIS ecosystem
+- PTCRISync: An ORCID based synchronisation framework for the Portuguese CRIS ecosystem
 - PURe: Program Understanding and Re-engineering: Calculi and Applications
 - EVOLVE: Evolutionary validation, verification and certification
 
@@ -39,7 +39,7 @@ Selected publications:
 
 - Nuno Macedo, Jorge Tiago, Alcino Cunha: [A Feature-based Classification of Model Repair Approaches](https://doi.org/10.1109/TSE.2016.2620145). IEEE Transactions on Software Engineering 43(7): 615-640. IEEE, 2017.
 - Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: [Lightweight specification and analysis of dynamic systems with rich configurations](https://doi.org/10.1145/2950290.2950318). In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
-- André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: [A Framework for Quality Assessment of ROS Repositories](https://doi.org/10.1109/IROS.2016.7759661). In proceedings of the 2016 IEEE/RSJ International Confe- rence on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
+- André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: [A Framework for Quality Assessment of ROS Repositories](https://doi.org/10.1109/IROS.2016.7759661). In proceedings of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
 - Alcino Cunha, Ana Gabriela Garis, Daniel Riesco: [Translating between Alloy specifications and UML class diagrams annotated with OCL](https://doi.org/10.1007/s10270-013-0353-5). Software and System Modeling 14(1): 5-25. Springer, 2015.
 - Nuno Macedo, Alcino Cunha: [Implementing QVT-R Bidirectional Model Transformations Using Alloy](https://doi.org/10.1007/978-3-642-37057-1_22). In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013. 
 - Alcino Cunha, José Nuno Oliveira, Joost Visser: [Type-safe Two-level Data Transformation](https://doi.org/10.1007/11813040_20). In proceedings of the 14th International Symposium on Formal Methods (FM’06), volume 4085 of LNCS, pages 284-299. Springer, 2006.
