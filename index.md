@@ -20,14 +20,14 @@ My research aims to help developers build more relieable software. Together with
 
 ## Teaching
 
-I regularly teach the following courses at [University of Minho](http://www.uminho.pt):
+I regularly teach in the following courses at [University of Minho](http://www.uminho.pt):
 
-- [Specification and Modelling](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES/EM) (MSc Informatics Engineering)
-- Computational Logic (BSc Computer Science)
-- Algorithms and Complexity (BSc Informatics Engineering and BSc Computer Science)
-- Algorithmic Problem Solving Lab II (BSc Computer Science)
-- Functional Programming (BSc Informatics Engineering and BSc Computer Science)
-- Imperative Programming (BSc Informatics Engineering and BSC Computer Science)
+- [Specification and Modelling](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES/EM) (MSc)
+- Algorithmic Problem Solving Lab II (BSc)
+- Computational Logic (BSc)
+- Algorithms and Complexity (BSc)
+- Functional Programming (BSc)
+- Imperative Programming (BSc)
 
 ## Projects
 
@@ -67,7 +67,7 @@ Current students:
 - Bruno Cancelinha (MSc, advisor, co-advised by Paulo Sérgio Almeida)
 - Renato Carvalho (MSc, co-advisor, advised by Nuno Macedo)
 
-Past students:
+Alumni:
 
 - José Pereira (MSc, advisor, 2016)
 - Eduardo Pessoa (MSc, co-advisor, 2016)
