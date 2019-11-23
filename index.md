@@ -1,14 +1,22 @@
 ---
-last_modified_at: 22 Nov 2019
+last_modified_at: 23 Nov 2019
 ---
 
 # Alcino Cunha
 
-I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of University of Minho and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
+I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [University of Minho](http://www.uminho.pt) and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
 
 ## Research
 
-My research aims to help people create better software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with ROS, to be integrated in our [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely on developing the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
+My research aims to help developers build more relieable software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. Electrum is based on the popular [Alloy](https://alloytools.org) modeling language and analyser, for which we also developed [Alloy4Fun](http://alloy4fun.inesctec.pt), a web application for sharing and learning Alloy. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with [ROS](https://www.ros.org), to be integrated in the [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely I helped develop the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
+
+## News
+
+- *23/11/19* My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3).
+
+- *01/11/19* I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org) - the paper submission deadline is December 2nd.
+
+- *12/10/19* We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt).
 
 ## Teaching
 
