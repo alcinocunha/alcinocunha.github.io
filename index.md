@@ -12,7 +12,6 @@ My research aims to help developers build more relieable software. Together with
 
 ## News
 
-| | |
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
 | *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org) - the paper submission deadline is December 2nd. |
 | *12/10/19* | We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt). |
@@ -87,8 +86,16 @@ Alumni:
 - [FM'19](http://formalmethods2019.inesctec.pt) (PC)
 - [Bx'18](https://2018.programming-conference.org/track/bx-2018-papers) (PC)
 - [Bx'15](http://bx-community.wikidot.com/bx2015:home) (Co-chair)
+- [RAMICS'15](https://ramics2015.di.uminho.pt) (OC)
 - [HART'13](http://www.imn.htwk-leipzig.de/HART2013/) (PC)
-- [MODELSWARD'13](http://www.modelsward.org/) (PC)
-- [ICMT'12](http://www.model-transformation.org/) (PC)
+- MODELSWARD'13 (PC)
+- ICMT'12 (PC)
 - [Bx'12](http://www.program-transformation.org/BX12) (PC)
 - [MSFP'10](http://cs.ioc.ee/msfp/msfp2010/) (PC)
+- [INFORUM'10](http://inforum.org.pt/INForum2010) (OC)
+- [GTTSE'07](http://wiki.di.uminho.pt/twiki/bin/view/Events/GTTSE2007/WebHome) (OC)
+- LDTA'07 (OC)
+
+## Peronal
+
+I love traveling, photography ([Flickr](https://www.flickr.com/photos/rosino), [Instagram](https://www.instagram.com/alcino.cunha/), [500px](https://500px.com/rosino)), and cycling ([Strava](http://app.strava.com/athletes/1914477)). My wife [Rosa Cabecinhas](https://scholar.google.com/citations?user=Snc2IyYAAAAJ&hl=en) is an Associate Professor at the Institute of Social Sciences at University of Minho.
