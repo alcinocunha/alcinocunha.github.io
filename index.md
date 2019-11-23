@@ -8,7 +8,7 @@ I'm an Assistant Professor at the [Department of Informatics](http://www.di.umin
 
 ## Research
 
-My research aims to help developers build more relieable software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. Electrum is based on the popular [Alloy](https://alloytools.org) modeling language and analyser, for which we also developed [Alloy4Fun](http://alloy4fun.inesctec.pt), a web application for sharing and learning Alloy. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with [ROS](https://www.ros.org), to be integrated in the [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely I helped develop the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
+My research aims to help developers build more reliable software. Together with several collaborators at [INESC TEC](https://www.inesctec.pt) and [ONERA](https://www.onera.fr/en/centers/toulouse), I'm currently developing a new formal specification language and analysis tool for software design - the [Electrum](http://haslab.github.io/Electrum/) framework. Electrum is based on the popular [Alloy](https://alloytools.org) modeling language and analyser, for which we also developed [Alloy4Fun](http://alloy4fun.inesctec.pt), a web application for sharing and learning Alloy. I'm also currently leading a project that aims to develop new analysis techniques for robotic software developed with [ROS](https://www.ros.org), to be integrated in the [HAROS](https://github.com/git-afsantos/haros) framework. In the past, my research focused on the topic of model driven software development, namely I helped develop the [Echo](http://haslab.github.io/echo/) framework for model repair and (bidirectional) transformation.
 
 ## News
 
@@ -96,6 +96,6 @@ Alumni:
 - [GTTSE'07](http://wiki.di.uminho.pt/twiki/bin/view/Events/GTTSE2007/WebHome) (OC)
 - LDTA'07 (OC)
 
-## Peronal
+## Personal
 
 I love traveling, photography ([Flickr](https://www.flickr.com/photos/rosino), [Instagram](https://www.instagram.com/alcino.cunha/), [500px](https://500px.com/rosino)), and cycling ([Strava](http://app.strava.com/athletes/1914477)). My wife [Rosa Cabecinhas](https://scholar.google.com/citations?user=Snc2IyYAAAAJ&hl=en) is an Associate Professor at the Institute of Social Sciences at University of Minho.
