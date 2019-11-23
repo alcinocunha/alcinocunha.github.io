@@ -12,11 +12,9 @@ My research aims to help developers build more relieable software. Together with
 
 ## News
 
-- *23/11/19* My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3).
-
-- *01/11/19* I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org) - the paper submission deadline is December 2nd.
-
-- *12/10/19* We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt).
+| *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
+| *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org) - the paper submission deadline is December 2nd. |
+| *12/10/19* | We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt). |
 
 ## Teaching
 
@@ -30,8 +28,6 @@ I regularly teach in the following courses at [University of Minho](http://www.u
 - Imperative Programming (BSc)
 
 ## Projects
-
-Current projects:
 
 - [TRUST](http://haslab.github.io/TRUST/): Trustworthy Software Design with Alloy (principal investigator)
 - [SAFER](http://haslab.github.io/SAFER/): Safety Verification for Robotic Software (principal investigator)
@@ -47,7 +43,7 @@ Past projects:
 
 ## Publications
 
-Selected publications:
+Some selected publications:
 
 - Nuno Macedo, Jorge Tiago, Alcino Cunha: [A Feature-based Classification of Model Repair Approaches](https://doi.org/10.1109/TSE.2016.2620145). IEEE Transactions on Software Engineering 43(7): 615-640. IEEE, 2017.
 - Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: [Lightweight specification and analysis of dynamic systems with rich configurations](https://doi.org/10.1145/2950290.2950318). In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
@@ -59,8 +55,6 @@ Selected publications:
 My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Cunha:Alcino.html) or [Scholar](https://scholar.google.com/citations?hl=en&user=aT3gF_cAAAAJ).
 
 ## Students
-
-Current students:
 
 - André Santos (PhD, advisor, co-advised by Nuno Macedo)
 - Chong Liu (PhD, advisor, co-advised by Nuno Macedo)
