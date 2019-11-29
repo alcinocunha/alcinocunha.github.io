@@ -13,7 +13,7 @@ My research aims to help developers build more reliable software. Together with 
 ## News
 
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
-| *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 2nd! |
+| *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 18th! |
 | *12/10/19* | We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt). |
 
 ## Teaching
