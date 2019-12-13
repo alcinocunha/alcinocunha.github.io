@@ -12,6 +12,7 @@ My research aims to help developers build more reliable software. Together with 
 
 ## News
 
+| *10/12/19* | My student Bruno Cancelinha successfully defended his MSc dissertation about developing a new analysis backend to our [Electrum](http://haslab.github.io/Electrum/) framework using the [LTSmin](https://ltsmin.utwente.nl) model checker.
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
 | *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 18th! |
 | *12/10/19* | We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt). |
@@ -58,11 +59,11 @@ My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/h
 
 - André Santos (PhD, advisor, co-advised by Nuno Macedo)
 - Chong Liu (PhD, advisor, co-advised by Nuno Macedo)
-- Bruno Cancelinha (MSc, advisor, co-advised by Paulo Sérgio Almeida)
 - Renato Carvalho (MSc, co-advisor, advised by Nuno Macedo)
 
 Alumni:
 
+- Bruno Cancelinha (MSc, advisor, 2019)
 - José Pereira (MSc, advisor, 2016)
 - Eduardo Pessoa (MSc, co-advisor, 2016)
 - Ana Garis (PhD, advisor, 2015)
