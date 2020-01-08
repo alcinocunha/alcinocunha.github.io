@@ -1,10 +1,10 @@
 ---
-last_modified_at: 13 Dec 2019
+last_modified_at: 08 Jan 2020
 ---
 
 # Alcino Cunha
 
-I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [University of Minho](http://www.uminho.pt) and of the [INESC TEC](https://www.inesctec.pt) associate laboratory. 
+I'm an Assistant Professor at the [Department of Informatics](http://www.di.uminho.pt) of [University of Minho](http://www.uminho.pt). I'm also a member (and currently co-coordinator) of the [High-Assurance Software Laboratory](https://www.inesctec.pt/en/centres/haslab), a research center of [University of Minho](http://www.uminho.pt) and of the [INESC TEC](https://www.inesctec.pt) associate laboratory.
 
 ## Research
 
@@ -12,6 +12,7 @@ My research aims to help developers build more reliable software. Together with 
 
 ## News
 
+| *08/01/20* | Together with Charles Lesire and Michael Fisher I will chair a workshop about *Quality and Reliability Assessment of Robotic Software Architectures and Components* at [ICRA 2020](https://www.icra2020.org). More details coming soon!
 | *10/12/19* | My student Bruno Cancelinha successfully defended his MSc dissertation about developing a new analysis backend to our [Electrum](http://haslab.github.io/Electrum/) framework using the [LTSmin](https://ltsmin.utwente.nl) model checker.
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
 | *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 18th! |
@@ -50,7 +51,7 @@ Some selected publications:
 - Nuno Macedo, Julien Brunel, David Chemouil, Alcino Cunha, Denis Kuperberg: [Lightweight specification and analysis of dynamic systems with rich configurations](https://doi.org/10.1145/2950290.2950318). In proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering (FSE’16), pages 373-383. ACM, 2016.
 - André Santos, Alcino Cunha, Nuno Macedo, Cláudio Lourenço: [A Framework for Quality Assessment of ROS Repositories](https://doi.org/10.1109/IROS.2016.7759661). In proceedings of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’16), pages 4491-4496. IEEE, 2016.
 - Alcino Cunha, Ana Gabriela Garis, Daniel Riesco: [Translating between Alloy specifications and UML class diagrams annotated with OCL](https://doi.org/10.1007/s10270-013-0353-5). Software and System Modeling 14(1): 5-25. Springer, 2015.
-- Nuno Macedo, Alcino Cunha: [Implementing QVT-R Bidirectional Model Transformations Using Alloy](https://doi.org/10.1007/978-3-642-37057-1_22). In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013. 
+- Nuno Macedo, Alcino Cunha: [Implementing QVT-R Bidirectional Model Transformations Using Alloy](https://doi.org/10.1007/978-3-642-37057-1_22). In proceedings of the 16th International Conference on Fundamental Approaches to Software Engineering (FASE’13), volume 7793 of LNCS, pages 297-311. Springer, 2013.
 - Alcino Cunha, José Nuno Oliveira, Joost Visser: [Type-safe Two-level Data Transformation](https://doi.org/10.1007/11813040_20). In proceedings of the 14th International Symposium on Formal Methods (FM’06), volume 4085 of LNCS, pages 284-299. Springer, 2006.
 
 My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Cunha:Alcino.html) or [Scholar](https://scholar.google.com/citations?hl=en&user=aT3gF_cAAAAJ).
