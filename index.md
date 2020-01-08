@@ -58,8 +58,8 @@ My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/h
 
 ## Students
 
-- André Santos (PhD, advisor, co-advised by Nuno Macedo)
-- Chong Liu (PhD, advisor, co-advised by Nuno Macedo)
+- André Santos (PhD, advisor, advised also by Nuno Macedo)
+- Chong Liu (PhD, advisor, advised also by Nuno Macedo)
 - Renato Carvalho (MSc, co-advisor, advised by Nuno Macedo)
 
 Alumni:
