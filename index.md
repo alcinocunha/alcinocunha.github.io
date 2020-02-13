@@ -1,5 +1,5 @@
 ---
-last_modified_at: 08 Jan 2020
+last_modified_at: 13 Feb 2020
 ---
 
 # Alcino Cunha
@@ -12,11 +12,11 @@ My research aims to help developers build more reliable software. Together with 
 
 ## News
 
-| *08/01/20* | Together with Charles Lesire and Michael Fisher I will chair a workshop about *Quality and Reliability Assessment of Robotic Software Architectures and Components* at [ICRA 2020](https://www.icra2020.org). More details coming soon!
+| *10/02/20* | I've just joined the PC of the [Ninth International Workshop on Bidirectional Transformations](http://bx-community.wikidot.com/bx2020:home). The paper submission deadline is April 27th! |
+| *08/01/20* | Together with Charles Lesire and Michael Fisher I will chair a workshop about [Quality and Reliability Assessment of Robotic Software Architectures and Components](https://sites.google.com/view/qrarsac2020) at [ICRA 2020](https://www.icra2020.org). The deadline for short paper submissions is March 23rd!
 | *10/12/19* | My student Bruno Cancelinha successfully defended his MSc dissertation about developing a new analysis backend to our [Electrum](http://haslab.github.io/Electrum/) framework using the [LTSmin](https://ltsmin.utwente.nl) model checker.
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
 | *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 18th! |
-| *12/10/19* | We gave a [tutorial about Alloy and Electrum](http://haslab.github.io/TRUST/tutorial.html) at the [Formal Methods World Congress](http://formalmethods2019.inesctec.pt). |
 
 ## Teaching
 
@@ -84,6 +84,9 @@ Alumni:
 
 ## Service
 
+- SOFT-PT'20 (PC)
+- [Bx'20](http://bx-community.wikidot.com/bx2020:home) (PC)
+- [QRARSAC'20](https://sites.google.com/view/qrarsac2020) (Co-chair)
 - [ERRoSS'20](https://www.erross.org) (PC)
 - [FM'19](http://formalmethods2019.inesctec.pt) (PC)
 - [Bx'18](https://2018.programming-conference.org/track/bx-2018-papers) (PC)
