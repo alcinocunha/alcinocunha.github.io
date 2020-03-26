@@ -1,5 +1,5 @@
 ---
-last_modified_at: 13 Feb 2020
+last_modified_at: 26 Mar 2020
 ---
 
 # Alcino Cunha
@@ -12,11 +12,11 @@ My research aims to help developers build more reliable software. Together with 
 
 ## News
 
+| *26/03/20* | Some good news amidst this terrible pandemic: we've got two papers accepted at [ABZ'20](https://abz2020.uni-ulm.de), one about [Alloy4Fun](http://alloy4fun.inesctec.pt) and another describing our implementation of the *Adaptive Exterior Light and Speed Control System* case study using [Electrum](http://haslab.github.io/Electrum/). Like many others, the conference itself will be postponed to 2021.
 | *10/02/20* | I've just joined the PC of the [Ninth International Workshop on Bidirectional Transformations](http://bx-community.wikidot.com/bx2020:home). The paper submission deadline is April 27th! |
 | *08/01/20* | Together with Charles Lesire and Michael Fisher I will chair a workshop about [Quality and Reliability Assessment of Robotic Software Architectures and Components](https://sites.google.com/view/qrarsac2020) at [ICRA 2020](https://www.icra2020.org). The deadline for short paper submissions is March 23rd!
 | *10/12/19* | My student Bruno Cancelinha successfully defended his MSc dissertation about developing a new analysis backend to our [Electrum](http://haslab.github.io/Electrum/) framework using the [LTSmin](https://ltsmin.utwente.nl) model checker.
 | *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
-| *01/11/19* | I've just joined the PC of the [First International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org). The paper submission deadline is December 18th! |
 
 ## Teaching
 
