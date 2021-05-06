@@ -1,5 +1,5 @@
 ---
-last_modified_at: 26 Mar 2020
+last_modified_at: 6 May 2021
 ---
 
 # Alcino Cunha
@@ -58,6 +58,8 @@ Some selected publications:
 My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/hd/c/Cunha:Alcino.html) or [Scholar](https://scholar.google.com/citations?hl=en&user=aT3gF_cAAAAJ).
 
 ## Students
+
+Current:
 
 - André Santos (PhD, co-advised by Nuno Macedo)
 - Chong Liu (PhD, co-advised by Nuno Macedo)
