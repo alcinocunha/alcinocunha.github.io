@@ -12,17 +12,17 @@ My research aims to help developers build more reliable software. Together with 
 
 ## News
 
+| *02/05/21* | Our [Workshop on Quality and Reliability Assessment of Robotic Software Architectures and Components](https://sites.google.com/view/qrarsac2021) has been accepted at [IROS'21](https://www.iros2021.org/). The live session is scheduled for October 1st, 2021, from 14h to 16h.
+| *02/03/21* | [Electrum](http://haslab.github.io/Electrum/) is now part of [Alloy 6](https://github.com/AlloyTools/org.alloytools.alloy)!
+| *23/02/21* | A tool paper about the [HAROS](https://github.com/git-afsantos/haros) framework has been accepted at [RoSE'21](https://rose-workshops.github.io/rose2021/)!
+| *01/07/20* | We've got a paper accepted at [IROS'20](http://www.iros2020.org) about verification of system-wide safety properties of ROS applications!
 | *26/03/20* | Some good news amidst this terrible pandemic: we've got two papers accepted at [ABZ'20](https://abz2020.uni-ulm.de), one about [Alloy4Fun](http://alloy4fun.inesctec.pt) and another describing our implementation of the *Adaptive Exterior Light and Speed Control System* case study using [Electrum](http://haslab.github.io/Electrum/). Like many others, the conference itself will be postponed to 2021.
-| *10/02/20* | I've just joined the PC of the [Ninth International Workshop on Bidirectional Transformations](http://bx-community.wikidot.com/bx2020:home). The paper submission deadline is April 27th! |
-| *08/01/20* | Together with Charles Lesire and Michael Fisher I will chair a workshop about [Quality and Reliability Assessment of Robotic Software Architectures and Components](https://sites.google.com/view/qrarsac2020) at [ICRA 2020](https://www.icra2020.org). The deadline for short paper submissions is March 23rd!
-| *10/12/19* | My student Bruno Cancelinha successfully defended his MSc dissertation about developing a new analysis backend to our [Electrum](http://haslab.github.io/Electrum/) framework using the [LTSmin](https://ltsmin.utwente.nl) model checker.
-| *23/11/19* | My student Chong Liu is heading to [SETTA'19](http://www4.comp.polyu.edu.hk/~csguannan/setta19/), where she will present our paper [Simplifying the Analysis of Software Design Variants with a Colorful Alloy](https://doi.org/10.1007/978-3-030-35540-1_3). |
 
 ## Teaching
 
 I regularly teach in the following courses at [University of Minho](http://www.uminho.pt):
 
-- [Specification and Modelling](http://wiki.di.uminho.pt/twiki/bin/view/Education/MFES/EM) (MSc)
+- [Specification and Modelling](https://haslab.github.io/MFES/EM/2021/index) (MSc)
 - Algorithmic Problem Solving Lab II (BSc)
 - Computational Logic (BSc)
 - Algorithms and Complexity (BSc)
@@ -31,13 +31,14 @@ I regularly teach in the following courses at [University of Minho](http://www.u
 
 ## Projects
 
-- [TRUST](http://haslab.github.io/TRUST/): Trustworthy Software Design with Alloy (principal investigator)
+Ongoing:
 - [SAFER](http://haslab.github.io/SAFER/): Safety Verification for Robotic Software (principal investigator)
-- LightKone: Lightweight Computations for Networks at the Edge
-- COST IC1405: Reversible computation - extending horizons of computing
 
 Past projects:
 
+- [TRUST](http://haslab.github.io/TRUST/): Trustworthy Software Design with Alloy (principal investigator)
+- LightKone: Lightweight Computations for Networks at the Edge
+- COST IC1405: Reversible computation - extending horizons of computing
 - [FATBIT](http://wiki.di.uminho.pt/twiki/bin/view/Research/FATBIT/WebHome): Foundations, Applications and Tools for Bidirectional Transformation (principal investigator)
 - PTCRISync: An ORCID based synchronisation framework for the Portuguese CRIS ecosystem
 - PURe: Program Understanding and Re-engineering: Calculi and Applications
@@ -58,35 +59,40 @@ My full publication list can be found at [DBLP](https://dblp.uni-trier.de/pers/h
 
 ## Students
 
-- André Santos (PhD, advisor, advised also by Nuno Macedo)
-- Chong Liu (PhD, advisor, advised also by Nuno Macedo)
-- Renato Carvalho (MSc, co-advisor, advised by Nuno Macedo)
+- André Santos (PhD, co-advised by Nuno Macedo)
+- Chong Liu (PhD, co-advised by Nuno Macedo)
+- Marco Barbosa (MSc, co-advised by Nuno Macedo)
+- Pedro Gonçalves (MSc)
+- Pedro Moura (MSc)
+- Ricado Pereira (MSc)
+- Sara Melo (MSc)
 
 Alumni:
 
-- Bruno Cancelinha (MSc, advisor, 2019)
-- José Pereira (MSc, advisor, 2016)
+- Renato Carvalho (MSc, co-advisor, 2020)
+- Bruno Cancelinha (MSc, 2019)
+- José Pereira (MSc, 2016)
 - Eduardo Pessoa (MSc, co-advisor, 2016)
-- Ana Garis (PhD, advisor, 2015)
-- André Santos (MSc, advisor, 2015)
-- Luís Romano (MSc, advisor, 2015)
-- Miguel Costa (MSc, advisor, 2015)
-- Nuno Macedo (PhD, advisor, 2014)
-- Daniel Murta (MSc, advisor, 2014)
-- Tiago Jorge (MSc, advisor, 2014)
-- Nuno Sousa (MSc, advisor, 2014)
-- Hugo Pacheco (PhD, advisor, 2012)
-- Mário Eiras (MSc, advisor, 2011)
-- Ricardo Romano (MSc, advisor, 2011)
-- Nuno Macedo (MSc, advisor, 2010)
-- João Paz (MSc, advisor, 2010)
+- [Ana Garis](http://www0.unsl.edu.ar/~agaris/) (PhD, 2015, now at Universidade Nacional de San Luis)
+- André Santos (MSc, 2015)
+- Luís Romano (MSc, 2015)
+- Miguel Costa (MSc, 2015)
+- [Nuno Macedo](https://nmacedo.github.io) (PhD,  2014, now at University of Porto)
+- Daniel Murta (MSc, 2014)
+- Tiago Jorge (MSc, 2014)
+- Nuno Sousa (MSc, 2014)
+- [Hugo Pacheco](https://sigarra.up.pt/fcup/pt/func_geral.formview?p_codigo=652136) (PhD, 2012, now at University of Porto)
+- Mário Eiras (MSc, 2011)
+- Ricardo Romano (MSc, 2011)
+- Nuno Macedo (MSc, 2010)
+- João Paz (MSc, 2010)
 
 
 ## Service
 
-- SOFT-PT'20 (PC)
-- [Bx'20](http://bx-community.wikidot.com/bx2020:home) (PC)
-- [QRARSAC'20](https://sites.google.com/view/qrarsac2020) (Co-chair)
+- ERST'22 (PC)
+- [QRARSAC'21](https://sites.google.com/view/qrarsac2021) (Co-chair)
+- [Bx'21](http://bx-community.wikidot.com/bx2021:home) (PC)
 - [ERRoSS'20](https://www.erross.org) (PC)
 - [FM'19](http://formalmethods2019.inesctec.pt) (PC)
 - [Bx'18](https://2018.programming-conference.org/track/bx-2018-papers) (PC)
