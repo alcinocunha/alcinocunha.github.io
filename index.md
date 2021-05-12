@@ -1,5 +1,5 @@
 ---
-last_modified_at: 6 May 2021
+last_modified_at: 12 May 2021
 ---
 
 # Alcino Cunha
@@ -93,6 +93,7 @@ Alumni:
 ## Service
 
 - ERST'22 (PC)
+- SOFT-PT'21 (PC)
 - [QRARSAC'21](https://sites.google.com/view/qrarsac2021) (Co-chair)
 - [Bx'21](http://bx-community.wikidot.com/bx2021:home) (PC)
 - [ERRoSS'20](https://www.erross.org) (PC)
