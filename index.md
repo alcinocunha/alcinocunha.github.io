@@ -92,8 +92,8 @@ Alumni:
 
 ## Service
 
-- ERST'22 (PC)
-- SOFT-PT'21 (PC)
+- [ERTS'22](https://www.erts2022.org) (PC)
+- [SOFT-PT'21](https://inforum.org.pt/soft-pt) (PC)
 - [QRARSAC'21](https://sites.google.com/view/qrarsac2021) (Co-chair)
 - [Bx'21](http://bx-community.wikidot.com/bx2021:home) (PC)
 - [ERRoSS'20](https://www.erross.org) (PC)
